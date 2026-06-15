@@ -16,4 +16,4 @@ Raw → Landing → Bronze → Silver → Gold
 1. Daily Revenue
 2. Top Product Categories
 3. State Revenue
-4. Monthly Revenue Trend
+4. Monthly Revenue Trend 
